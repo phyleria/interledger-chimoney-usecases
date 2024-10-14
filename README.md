@@ -21,17 +21,13 @@ Before setting up any individual use cases, make sure you have the following ins
 Clone the repository:
 
 ```
-Copy code
 git clone https://github.com/yourusername/chimoney-interledger-usecases.git
-```
-```
 cd chimoney-interledger-usecases
 ```
 
 Navigate to a specific use case:
 
 ```
-Copy code
 cd ecommerce-usecase
 ```
 
@@ -39,7 +35,8 @@ Install dependencies:
 
 ```bash
 Copy code
-npm install```
+npm install
+```
 
 Set up environment variables: Copy the .env.example file in each use case folder and rename it to .env. Then, fill in the required variables.
 
