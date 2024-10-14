@@ -34,7 +34,6 @@ cd ecommerce-usecase
 Install dependencies:
 
 ```bash
-Copy code
 npm install
 ```
 
@@ -42,15 +41,15 @@ Set up environment variables: Copy the .env.example file in each use case folder
 
 Example .env file for E-commerce use case:
 
-makefile```
-Copy code
+```makefile
 CHIMONEY_API_KEY=your-chimoney-api-key
 INTERLEDGER_WALLET_ADDRESS=your-interledger-wallet-address
-MONGO_URI=mongodb://localhost:27017/ecommerce```
+MONGO_URI=mongodb://localhost:27017/ecommerce
+```
 
 Run the application:
 
-bash```
-Copy code
-npm start```
+```bash
+npm start
+```
 
