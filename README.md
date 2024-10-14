@@ -1,9 +1,8 @@
 # Chimoney-Interledger Use Cases
 
-This repository contains starter code and examples for various use cases that integrate Chimoney's API with Interledger. These use cases demonstrate how businesses, microfinance platforms, remittance services, and charitable organizations can leverage Chimoney-Interledger endpoints to handle global payouts, payments, and donations seamlessly.
+This repository contains starter code and examples for various use cases that integrate Chimoney's API with Interledger. These use cases demonstrate how businesses, microfinance platforms, remittance services, and charitable organizations can leverage Chimoney-Interledger endpoints to handle global payouts, payments, and donations.
 
 ## Use Cases
-This repo includes code for the following use cases:
 
 - **Seamless International E-commerce**: Enables merchants and customers to process global transactions using Interledger.
 - **Microfinance and Lending**: Facilitates the distribution of loans using Interledger payment pointers for both lenders and borrowers.
