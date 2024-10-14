@@ -22,8 +22,10 @@ Clone the repository:
 
 ```bash
 Copy code
-git clone https://github.com/yourusername/chimoney-interledger-usecases.git```
-```cd chimoney-interledger-usecases```
+git clone https://github.com/yourusername/chimoney-interledger-usecases.git
+```
+```cd chimoney-interledger-usecases
+```
 
 Navigate to a specific use case:
 
