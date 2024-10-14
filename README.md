@@ -20,18 +20,20 @@ Before setting up any individual use cases, make sure you have the following ins
 
 Clone the repository:
 
-```bash
+```
 Copy code
 git clone https://github.com/yourusername/chimoney-interledger-usecases.git
 ```
-```cd chimoney-interledger-usecases
+```
+cd chimoney-interledger-usecases
 ```
 
 Navigate to a specific use case:
 
-```bash
+```
 Copy code
-cd ecommerce-usecase```
+cd ecommerce-usecase
+```
 
 Install dependencies:
 
